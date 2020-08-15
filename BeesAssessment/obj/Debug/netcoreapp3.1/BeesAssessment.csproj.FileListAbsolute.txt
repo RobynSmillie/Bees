@@ -1,0 +1,15 @@
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\bin\Debug\netcoreapp3.1\BeesAssessment.exe
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\bin\Debug\netcoreapp3.1\BeesAssessment.deps.json
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\bin\Debug\netcoreapp3.1\BeesAssessment.runtimeconfig.json
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\bin\Debug\netcoreapp3.1\BeesAssessment.runtimeconfig.dev.json
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\bin\Debug\netcoreapp3.1\BeesAssessment.dll
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\bin\Debug\netcoreapp3.1\BeesAssessment.pdb
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\obj\Debug\netcoreapp3.1\BeesAssessment.csprojAssemblyReference.cache
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\obj\Debug\netcoreapp3.1\BeesAssessment.Form1.resources
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\obj\Debug\netcoreapp3.1\BeesAssessment.csproj.GenerateResource.cache
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\obj\Debug\netcoreapp3.1\BeesAssessment.AssemblyInfoInputs.cache
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\obj\Debug\netcoreapp3.1\BeesAssessment.AssemblyInfo.cs
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\obj\Debug\netcoreapp3.1\BeesAssessment.csproj.CoreCompileInputs.cache
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\obj\Debug\netcoreapp3.1\BeesAssessment.dll
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\obj\Debug\netcoreapp3.1\BeesAssessment.pdb
+C:\Users\robyn\source\repos\Bees\BeesAssessment\BeesAssessment\obj\Debug\netcoreapp3.1\BeesAssessment.genruntimeconfig.cache
