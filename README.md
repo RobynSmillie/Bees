@@ -23,7 +23,7 @@ implement TDD properly is a skill I could learn here!
 Lastly I decided to test the max and max+1 boundaries of minHealth after damage for each type of bee.
 
 Due to lack of time, there are numbers in the code where constants could have been 
-used instead, missing test casess and commenting has not been completed.
+used instead, missing test cases and commenting has not been completed.
 
 
 
